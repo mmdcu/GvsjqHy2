@@ -1,0 +1,1 @@
+sing-box://import-remote-profile?url=http%3A%2F%2F188.245.85.236%3A2096%2Fsub%2Falireza%3Fformat%3Djson#alireza
